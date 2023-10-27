@@ -10,5 +10,13 @@
   },
   "keywords": [
     "Saeed Sufi"
-  ]
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "saeed-sufi/node-cli",
+  "author": {
+    "name": "Saeed Sufi",
+    "email": "saeed_sufi_da@gmail.com",
+    "url": "https://linkedin.com/in/saeed-sufi"
+  }
 }
