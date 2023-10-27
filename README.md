@@ -1,7 +1,16 @@
-# node-cli
-Node-cli course by ahmad awais
+# npx saeedsufi
 
-* Here's the Hashbang you need to use at the top of your `index.js` file to be able to run js on command line without needing to prefix your commands with `node`: `#!/usr/bin/env node`
+> Taking Node-cli course by ahmad awais
+
+## Usage
+
+To use this CLI run the following command:
+
+```
+npx saeedsufi
+```
+
+* Here's the Hashbang you need to use at the top of your `index.js` file to be able to run js on command line without needing to prefix your commands with `node`: `#!/usr/bin/ env node`
 
 * After creating `index.js` and `package.json`, run `npm link` to install your package globally. You can uninstall it by running `npm uninstall -g <packagename>`.
 
