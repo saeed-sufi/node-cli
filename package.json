@@ -1,7 +1,10 @@
 {
-  "name": "sam",
+  "name": "saeedsufi",
   "version": "1.0.0",
   "bin": {
     "sam": "index.js"
+  },
+  "dependencies": {
+    "clear-any-console": "^1.16.2"
   }
 }
