@@ -1,7 +1,0 @@
-{
-  "name": "sufi",
-  "version": "1.0.1",
-  "bin": {
-    "sufi": "index.js"
-  }
-}
