@@ -1,6 +1,6 @@
 {
   "name": "saeedsufi",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "Amazing package that introduces Saeed Sufi",
   "bin": {
     "sam": "index.js"
